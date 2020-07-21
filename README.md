@@ -1,13 +1,15 @@
 # Code 201 Reading notes
 
-This contains notes throughout my classes. Live link: https://kmangub.github.io/reading-notes-master/
+This contains notes throughout my classes. 
+
+Live link: https://kmangub.github.io/reading-notes-master/
 
 **102** Reading Notes can be found [here.](https://kmangub.github.io/reading-notes/)
 
 ### Table of Contents
 
 
-1. Reading 1
+1. [Reading 1: HTML and JavaScript](class-01.md)
 2. Reading 2
 3. Reading 3
 4. Reading 4 
