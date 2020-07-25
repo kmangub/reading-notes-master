@@ -56,3 +56,5 @@ Below is an example of JavaScript:
 document.write('Good afternoon!');
 ```
 Where `document` is the object, `write('Good afternoon!')` is the method, and `'Good afternoon!'` are the parameters.
+
+[Back to Home Page](https://kmangub.github.io/reading-notes-master/)

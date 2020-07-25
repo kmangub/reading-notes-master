@@ -47,3 +47,5 @@ There are different types of selectors and can be found below:
 * `#example` - ID selector targets elements with the same ID.
 
 > If the two selectors are identical, the latter of the two will take precedence. This is called the **Last Rule**.
+
+[Back to Home Page](https://kmangub.github.io/reading-notes-master/)
