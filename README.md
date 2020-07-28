@@ -12,7 +12,7 @@ Live link: https://kmangub.github.io/reading-notes-master/
 1. [Reading 1: HTML and JavaScript](class-01.md)
 2. [Reading 2: Basics of HTML, CSS & JS](class-02.md)
 3. [Reading 3: Lists, Boxes, and Loops](class-03.md)
-4. Reading 4 
+4. [Reading 4: Links, Layout, Functions, and Pair Programming](class-04.md)
 5. Reading 5
 6. Reading 6
 7. Reading 7
