@@ -9,7 +9,7 @@ Where `<a href="http://www.imdb.com">` is the opening tag with the website addre
 
 **URL** is Uniform Resource Locator.
 
-###Linking to Other Pages on the Same Site
+### Linking to Other Pages on the Same Site
 When we are directing the user to another page in the same site, we wouldn't need to put the whole url, but rather the **relative URL**, which are the files located on the smae folder.
 
 #### Example
@@ -78,3 +78,5 @@ There are six benefits to pair programming:
 4. Social Skills - Navigating code can help with communication skills.
 5. Job Interview Readiness - Pair programming can show-off your collaboration skills to the employer. Learning from others and working well with them is a **desired** skill.
 6. Work Environment Readiness - Pair programming can equip us with skills that normal Computer Science Majors dont have after graduating college.
+
+[Back to Home Page](https://kmangub.github.io/reading-notes-master/)
