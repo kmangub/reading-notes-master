@@ -34,7 +34,7 @@ Which will give us a table border of two and a background color of grey.
 
 `var hotel = new Object();` will allow us to create a blank object and add properties and methods to that object.
 
-You can update using dot notation or bracket notation. To update, we use any method followed by a value in quotation marks. We can remove a property by using the `delete` keyword followed by the object and property.
+You can update using dot notation or bracket notation. To update, we use any method followed by a value in quotation marks. We can remove a property by using the `delete` keyword followed by the object and property. 
 
 [Back to Home Page](https://kmangub.github.io/reading-notes-master/)
 
