@@ -16,7 +16,7 @@ Live link: https://kmangub.github.io/reading-notes-master/
 5. [Reading 5: Images, Color, and Text](class-05.md)
 6. [Reading 6: Object Literals, Document, Object, Model](class-06.md)
 7. [Reading 7: Tables, Constructor Functions](class-07.md)
-8. Reading 8
+8. [Reading 8: Forms, List Table and Forms, Events](class-08.md) 
 9. Reading 9
 10. Reading 10
 11. Reading 11
