@@ -17,7 +17,7 @@ Live link: https://kmangub.github.io/reading-notes-master/
 6. [Reading 6: Object Literals, Document, Object, Model](class-06.md)
 7. [Reading 7: Tables, Constructor Functions](class-07.md)
 8. [Reading 8: Forms, List Table and Forms, Events](class-08.md) 
-9. Reading 9
+9. [Reading 9: Error Handling and Debugging](class-09.md)
 10. Reading 10
 11. Reading 11
 12. Reading 12

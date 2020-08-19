@@ -13,4 +13,16 @@ There are seven types of errors:
 - URIError (Uniform Resource Indentifier Error) - incorrect use of `encodeURI()`, `decodeURI`, or characters not escaped correctly.
 - EvalError - incorrect use of the `eval()` function
 
+Console methods, such as `console.log()`, are useful when debugging code. In addition, we have three different console methods:
 
+- `console.info()` - shows general information
+- `console.warm()` - used for warnings
+- `console.error()` - holds errors
+
+**Breakpoints** can stop the execution of codes. This is useful becuase we can sheck the values stored in variables at that instance. 
+
+### Try, Catch, Finally
+
+We can use `try`, `catch`, and `finally` when we predict that our code is going to break. This will give great feedback to the users. 
+
+[Back to Home Page](https://kmangub.github.io/reading-notes-master/)
