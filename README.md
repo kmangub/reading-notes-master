@@ -21,6 +21,6 @@ Live link: https://kmangub.github.io/reading-notes-master/
 10. [Reading 10: Images and Practical Information](class-10.md)
 11. [Reading 11: Charts and Canvas](class-11.md)
 12. [Reading 12: Local Storage](class-12.md)
-13. Reading 13
+13. [Reading 13: What Google Learned from its Quest to Build the Perfect Team](class-13.md)
 14. Reading 14
 15. Reading 15
