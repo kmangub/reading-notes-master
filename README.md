@@ -20,7 +20,7 @@ Live link: https://kmangub.github.io/reading-notes-master/
 9. [Reading 9: Error Handling and Debugging](class-09.md)
 10. [Reading 10: Images and Practical Information](class-10.md)
 11. [Reading 11: Charts and Canvas](class-11.md)
-12. Reading 12
+12. [Reading 12: Local Storage](class-12.md)
 13. Reading 13
 14. Reading 14
 15. Reading 15
