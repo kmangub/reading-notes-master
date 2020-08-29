@@ -1,8 +1,8 @@
 # Local Storage
 
-- In the past, wookies were invented beacse they the borwsers needed some way to store data. The downsides are that cookies come included with every HTTP requests, meaning that it slows down the application. In addition, it sends unencrypted data over the internet.
+- In the past, cookies were invented because they the browsers needed some way to store data. The downsides are that cookies come included with every HTTP requests, meaning that it slows down the application. In addition, it sends unencrypted data over the internet.
 
-- userdata makes it so that the webpage can store about 64 KB per domain.
+- `userdata` makes it so that the webpage can store about 64 KB per domain.
 
 - With Gears, it's possible to have unlimited amounts of data per domain.
 
