@@ -1,13 +1,27 @@
-# Code 201 Reading notes
+# Reading notes
 
 This contains notes throughout my classes. 
 
 Live link: https://kmangub.github.io/reading-notes-master/
 
-**102** Reading Notes can be found [here.](https://kmangub.github.io/reading-notes/)
+<!-- **102** Reading Notes can be found [here.](https://kmangub.github.io/reading-notes/) -->
 
-### Table of Contents
+# Table of Contents
 
+## Code 102 - Intro to Software Development
+
+1. [Reading 1: Growth Mindset](growth-mindset.md)
+2. [Reading 2: Tools and Terminal](tools-terminal.md)
+3. [Reading 3: Git-Intro](Git-Intro.md)
+4. [Reading 4: Coder's Computer](coders-computer.md)
+5. [Reading 5: HTML](html.md)
+6. [Reading 6: CSS](css-notes.md)
+7. [Reading 7: Javascript](javascript-notes.md)
+8. [Reading 8: How a Computer Works](how-computer-works.md)
+9. [Reading 9: Functions](function-notes.md)
+10. [Reading 10: For and While Loops](loops-notes.md)
+
+## Code 201 - Foundations of Software Development
 
 1. [Reading 1: HTML and JavaScript](class-01.md)
 2. [Reading 2: Basics of HTML, CSS & JS](class-02.md)
@@ -22,5 +36,7 @@ Live link: https://kmangub.github.io/reading-notes-master/
 11. [Reading 11: Charts and Canvas](class-11.md)
 12. [Reading 12: Local Storage](class-12.md)
 13. [Reading 13: What Google Learned from its Quest to Build the Perfect Team](class-13.md)
-14. Reading 14
-15. Reading 15
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
