@@ -41,4 +41,6 @@ Live link: https://kmangub.github.io/reading-notes-master/
 
 1. [Reading 1: SMACSS and Responsive Web Design](301/class-01.md)
 
+2. [Reading 2: jQuery and Paired Programming](301/class-02.md)
+
 ## Code 401 - Advanced Software Development
