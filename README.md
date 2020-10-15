@@ -44,4 +44,6 @@ Live link: https://kmangub.github.io/reading-notes-master/
 3. [Reading 3: Flexbox and Templating](301/class-03.md)
 4. [Reading 4: CSS Grid](301/class-04.md)
 5. [Reading 5: Heroku Deployment](301/class-05.md)
+6. [Reading 6: Node.js](301/class-06.md)
+
 ## Code 401 - Advanced Software Development
