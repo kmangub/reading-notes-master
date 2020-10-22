@@ -21,3 +21,5 @@ When we connect to a server, it will create a new thread and any subsequent I/O 
 ## What kind of Apps is Node.js suited for?
 
 Applications that have real-time interaction or collaboration use node.js. Another is for building APIs that handle multiple requests or data streaming.
+
+[Back to Home Page](https://kmangub.github.io/reading-notes-master/)

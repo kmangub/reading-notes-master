@@ -23,3 +23,5 @@ The installation process is very simple. I followed these steps:
 9. A shortcut to go from the terminal to the browser is  `heroku open`.
 
 10. To view logs, I used the `heroku logs --tail` command.
+
+[Back to Home Page](https://kmangub.github.io/reading-notes-master/)
