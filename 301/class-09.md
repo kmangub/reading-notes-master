@@ -1,4 +1,4 @@
-  # Functional Programing
+  # Functional Programming
 
 **Pure Functions** returns the same result ig given the same arguments, or deterministic and it does not cause any observable side effects.
 
@@ -12,4 +12,6 @@ Functions as first-class entities can refer to it from constants and variables, 
 
 **Higher-order functions** takes one or more functions as arguments, or returns function as its result.
 
-**Reduce** receives a function and returns the value created by the items. W
+**Reduce** receives a function and returns the value created by the items.
+
+[Back to Home Page](https://kmangub.github.io/reading-notes-master/)
