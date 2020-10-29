@@ -48,6 +48,6 @@ Live link: https://kmangub.github.io/reading-notes-master/
 7. [Reading 7: APIs Continued](301/class-07.md)
 8. [Reading 8: SQL](301/class-08.md)
 9. [Reading 9: Functional Programming](301/class-09.md)
-
+10. [Reading 10: The Call Stack and Debugging](301/class-10.md)
 
 ## Code 401 - Advanced Software Development
