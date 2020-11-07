@@ -50,6 +50,7 @@ Live link: https://kmangub.github.io/reading-notes-master/
 9. [Reading 9: Functional Programming](301/class-09.md)
 10. [Reading 10: The Call Stack and Debugging](301/class-10.md)
 11. [Reading 11: EJS](301/class-11.md)
-11. [Reading 12: EJS Partials](301/class-12.md)
+12. [Reading 12: EJS Partials](301/class-12.md)
+13. [Reading 13: Form Data](301/class-13.md)
 
 ## Code 401 - Advanced Software Development
