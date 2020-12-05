@@ -53,4 +53,7 @@ Live link: https://kmangub.github.io/reading-notes-master/
 12. [Reading 12: EJS Partials](301/class-12.md)
 13. [Reading 13: Form Data](301/class-13.md)
 
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development Python
+
+1. [Reading 1: Pain and Big O](401/class-01.md)
+
