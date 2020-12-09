@@ -56,4 +56,5 @@ Live link: https://kmangub.github.io/reading-notes-master/
 ## Code 401 - Advanced Software Development Python
 
 1. [Reading 1: Pain and Big O](401/class-01.md)
+1. [Reading 2: Tests and Recursion](401/class-02.md)
 
