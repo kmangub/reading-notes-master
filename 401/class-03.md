@@ -52,4 +52,4 @@ if x > 5:
 
 Assertions are a way to alert the user if the condition runs false using `assert`.
 
-Try and except blocks will also make the program run and it will throw an error in the except block.
+Try and except blocks will also make the program run and it will throw an error in the except block. 
