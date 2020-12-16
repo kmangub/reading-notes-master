@@ -58,4 +58,4 @@ Live link: https://kmangub.github.io/reading-notes-master/
 1. [Reading 1: Pain and Big O](401/class-01.md)
 1. [Reading 2: Tests and Recursion](401/class-02.md)
 1. [Reading 3: Reading Files and Exceptions](401/class-03.md)
-1. [Reading 4: Classes and Objects, Thinking Recursively, Pytest Fixtures and Coverage](401/class-03.md)
+1. [Reading 4: Classes and Objects, Thinking Recursively, Pytest Fixtures and Coverage](401/class-04.md)
