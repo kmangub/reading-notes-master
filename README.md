@@ -61,3 +61,4 @@ Live link: https://kmangub.github.io/reading-notes-master/
 1. [Reading 4: Classes and Objects, Thinking Recursively, Pytest Fixtures and Coverage](401/class-04.md)
 1. [Reading 5: Linked Lists](401/class-05.md)
 1. [Reading 6: Random Module and Risk Analysis](401/class-06.md)
+1. [Reading 7: Global and Non-Local Keywords](401/class-07.md)
