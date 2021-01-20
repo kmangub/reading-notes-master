@@ -65,3 +65,4 @@ Live link: https://kmangub.github.io/reading-notes-master/
 1. [Reading 8: List Comprehensions, Dunder Methods, and Statistics and Probability](401/class-08.md)
 1. [Reading 9: Stacks and Queues](401/class-09.md)
 1. [Reading 10: Data Analysis](401/class-10.md)
+1. [Reading 11: Pandas](401/class-11.md)
