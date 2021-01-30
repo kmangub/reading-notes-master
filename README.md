@@ -68,3 +68,4 @@ Live link: https://kmangub.github.io/reading-notes-master/
 1. [Reading 11: Pandas](401/class-11.md)
 1. [Reading 12: Linear Regression with Pandas](401/class-12.md)
 1. [Reading 13: Matplotlib](401/class-13.md)
+1. [Reading 14: Trees](401/class-14.md)
