@@ -72,3 +72,4 @@ Live link: https://kmangub.github.io/reading-notes-master/
 1. [Reading 15: Web Scraping](401/class-15.md)
 1. [Reading 16: Cryptography](401/class-16.md)
 1. [Reading 17: Automation](401/class-17.md)
+1. [Reading 18: Django](401/class-18.md)
