@@ -74,3 +74,4 @@ Live link: https://kmangub.github.io/reading-notes-master/
 1. [Reading 17: Automation](401/class-17.md)
 1. [Reading 18: Django](401/class-18.md)
 1. [Reading 19: Django Models](401/class-19.md)
+1. [Reading 20: Django Forms](401/class-20.md)
