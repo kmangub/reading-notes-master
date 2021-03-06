@@ -129,7 +129,7 @@ We need to use the `render()` function to create the HTML page.
 For the template, we need to extend the base template and refine the rest. It will look something like this:
 
 ```
-{% extends "base_generic.html" %}
+{ % extends "base_generic.html" % }
 
 {% block content %}
   <h1>Renew: {{ book_instance.book.title }}</h1>
