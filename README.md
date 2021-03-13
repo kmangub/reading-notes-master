@@ -76,3 +76,4 @@ Live link: https://kmangub.github.io/reading-notes-master/
 1. [Reading 19: Django Models](401/class-19.md)
 1. [Reading 20: Django Forms](401/class-20.md)
 1. [Reading 21: Custom User](401/class-21.md)
+1. [Reading 22: Hash Tables](401/class-22.md)
