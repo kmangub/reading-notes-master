@@ -117,6 +117,7 @@ Create a directory called `registration` in the templates folder and inside that
 ### home.html
 
 ```
+{% raw  %}
 {% extends 'base.html' %}
 
 {% block title %}Home{% endblock %}
@@ -131,11 +132,13 @@ Create a directory called `registration` in the templates folder and inside that
   <a href="{% url 'signup' %}">Sign Up</a>
 {% endif %}
 {% endblock %}
+{% endraw %}
 ```
 
 ### registration/login.html
 
 ```
+{% raw  %}
 {% extends 'base.html' %}
 
 {% block title %}Log In{% endblock %}
@@ -148,11 +151,13 @@ Create a directory called `registration` in the templates folder and inside that
   <button type="submit">Log In</button>
 </form>
 {% endblock %}
+{% endraw %}
 ```
 
 ### registration/signup.html
 
 ```
+{% raw  %}
 {% extends 'base.html' %}
 
 {% block title %}Sign Up{% endblock %}
@@ -165,6 +170,7 @@ Create a directory called `registration` in the templates folder and inside that
   <button type="submit">Sign Up</button>
 </form>
 {% endblock %}
+{% endraw %}
 ```
 
 ### /urls.py
