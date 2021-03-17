@@ -99,6 +99,7 @@ Create a directory called `registration` in the templates folder and inside that
 ### base.html
 
 ```
+{% raw  %}
 <!DOCTYPE html>
 <html>
 <head>
@@ -112,6 +113,7 @@ Create a directory called `registration` in the templates folder and inside that
   </main>
 </body>
 </html>
+{% endraw %}
 ```
 
 ### home.html
