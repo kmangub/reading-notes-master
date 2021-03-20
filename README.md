@@ -78,4 +78,4 @@ Live link: https://kmangub.github.io/reading-notes-master/
 1. [Reading 21: Custom User](401/class-21.md)
 1. [Reading 22: Hash Tables](401/class-22.md)
 1. [Reading 23: Django REST Framework & Docker](401/class-23.md)
-
+1. [Reading 24: Permissions & Postgresql](401/class-24.md)
