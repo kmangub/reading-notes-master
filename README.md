@@ -83,3 +83,4 @@ Live link: https://kmangub.github.io/reading-notes-master/
 1. [Reading 26: API Deployment](401/class-26.md)
 1. [Reading 27: Graphs](401/class-27.md)
 1. [Reading 28: DSA Review](401/class-28.md)
+1. [Reading 29: React I](401/class-29.md)
