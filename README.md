@@ -85,3 +85,4 @@ Live link: https://kmangub.github.io/reading-notes-master/
 1. [Reading 28: DSA Review](401/class-28.md)
 1. [Reading 29: React I](401/class-29.md)
 1. [Reading 30: React II](401/class-30.md)
+1. [Reading 31: React III](401/class-31.md)
