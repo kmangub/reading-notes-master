@@ -88,3 +88,5 @@ Live link: https://kmangub.github.io/reading-notes-master/
 1. [Reading 31: React III](401/class-31.md)
 1. [Reading 32: React IV](401/class-32.md)
 1. [Reading 33: Pythonism](401/class-33.md)
+1. [Reading 34: Ethics](401/class-34.md)
+1. [Reading 35: Open-Source Software Contribution](401/class-35.md)
